@@ -29,14 +29,17 @@ Command line utility that aims to monitor the development of an application.
 
 ## Roadmap
 
+SECTIONS: DOING, MVP, FEATURES, SPRINKLES, ISSUES
+
 - [ ] Create base classes of Commander
-- [ ] Create database simple file I/O or sqllite
+- [ ] Design database
+- [ ] add tasks in either section
+- [ ] remove tasks in either section
+- [ ] update tasks in either section
+- [ ] display tasks in either section
 - [ ] Commander displays/monitors current working directory project, if any
 - [ ] Commander displays/monitors available projects in database
-- [ ] Commander adds tasks
-- [ ] Commander displays stasks
-- [ ] Commander removes tasks
-- [ ] Commander updates tasks
+- [ ] Handle substasks
 
 ## Getting Started
 
